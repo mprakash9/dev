@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>[CSM AIS] Configurable Workspace Search Config</label>
+        <name>csm_ais_configurable_workspace_search_config</name>
+        <publish_id>4d929a65-e97c-4075-8ee0-467120f52282</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2022-09-07 06:24:44</sys_created_on>
+        <sys_id>b6ef671ddcf55510f877b9fffe5b8e91</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>[CSM AIS] Configurable Workspace Search Config</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_update_name>ais_search_profile_b6ef671ddcf55510f877b9fffe5b8e91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 08:00:08</sys_updated_on>
+    </ais_search_profile>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</claim_owner_scope>
+        <claim_timestamp>190a0f4a8970000001</claim_timestamp>
+        <metadata_update_name>ais_search_profile_b6ef671ddcf55510f877b9fffe5b8e91</metadata_update_name>
+        <previous_claim_app_version>24.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM and FSM Configurable Workspace Foundation</previous_claim_name>
+        <previous_claim_scope>27b568be53b11010d4f9ddeeff7b12c5</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:41:46</sys_created_on>
+        <sys_id>10450a061b5b8e1008c1c884604bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:41:46</sys_updated_on>
+    </sys_claim>
+</record_update>

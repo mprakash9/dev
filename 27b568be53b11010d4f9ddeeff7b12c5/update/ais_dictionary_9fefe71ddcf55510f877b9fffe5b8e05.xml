@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>customer_contact,kb_knowledge,sn_customerservice_case,csm_consumer,sys_user,customer_account</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>[CSM AIS] Configurable Workspace Search Config Default Spell Check Dictionary</label>
+        <last_derived>2024-04-02 06:17:30</last_derived>
+        <locale>en</locale>
+        <name>csm_ais_configurable_workspace_search_config_default_spell_check_dictionary</name>
+        <publish_id>03a29bde-b9ad-4052-a014-40a147a4efe7</publish_id>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2022-09-07 06:24:46</sys_created_on>
+        <sys_id>9fefe71ddcf55510f877b9fffe5b8e05</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>csm_ais_configurable_workspace_search_config_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_update_name>ais_dictionary_9fefe71ddcf55510f877b9fffe5b8e05</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 08:00:12</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</claim_owner_scope>
+        <claim_timestamp>190a0f4a8530000001</claim_timestamp>
+        <metadata_update_name>ais_dictionary_9fefe71ddcf55510f877b9fffe5b8e05</metadata_update_name>
+        <previous_claim_app_version>24.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM and FSM Configurable Workspace Foundation</previous_claim_name>
+        <previous_claim_scope>27b568be53b11010d4f9ddeeff7b12c5</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:41:46</sys_created_on>
+        <sys_id>44450a061b5b8e1008c1c884604bcb90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:41:46</sys_updated_on>
+    </sys_claim>
+</record_update>

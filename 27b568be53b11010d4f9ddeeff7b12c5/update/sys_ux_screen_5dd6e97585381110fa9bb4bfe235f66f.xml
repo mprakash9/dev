@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <app_config display_value="CSM/FSM Configurable Workspace App Config">f224e5a3530210102c30ddeeff7b128d</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[
+    
+]</event_mappings>
+        <macroponent display_value="CSM default record page">cdd6e57585381110fa9bb4bfe235f6d3</macroponent>
+        <macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "comment": "",
+            "message": ""
+        }
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    },
+    "selectedTabIndex": {
+        "type": "JSON_LITERAL",
+        "value": 0
+    },
+    "views": {
+        "type": "JSON_LITERAL",
+        "value": ""
+    }
+}</macroponent_config>
+        <name>CSM default record page</name>
+        <order>1000</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=sn_customerservice_case</screen_condition>
+        <screen_type display_value="Record">97a42da3530210102c30ddeeff7b121a</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2022-07-20 16:39:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5dd6e97585381110fa9bb4bfe235f66f</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>CSM default record page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_update_name>sys_ux_screen_5dd6e97585381110fa9bb4bfe235f66f</sys_update_name>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2024-04-02 06:14:55</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5dd6e97585381110fa9bb4bfe235f66f"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</claim_owner_scope>
+        <claim_timestamp>190a0f4aaa20000001</claim_timestamp>
+        <metadata_update_name>sys_ux_screen_5dd6e97585381110fa9bb4bfe235f66f</metadata_update_name>
+        <previous_claim_app_version>24.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM and FSM Configurable Workspace Foundation</previous_claim_name>
+        <previous_claim_scope>27b568be53b11010d4f9ddeeff7b12c5</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:41:47</sys_created_on>
+        <sys_id>5c450a061b5b8e1008c1c884604bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:41:47</sys_updated_on>
+    </sys_claim>
+</record_update>

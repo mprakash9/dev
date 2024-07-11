@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="DELETE">
+        <profile display_value="[CSM AIS] Configurable Workspace Search Config">b6ef671ddcf55510f877b9fffe5b8e91</profile>
+        <search_source display_value="">13bf8fe1531201107f03ddeeff7b1274</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2022-09-07 06:24:48</sys_created_on>
+        <sys_id>37efe71ddcf55510f877b9fffe5b8e78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>[CSM AIS] Configurable Workspace Search Config.Tasks - Incidents</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_37efe71ddcf55510f877b9fffe5b8e78</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2022-09-07 06:24:48</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</application>
+        <file_path/>
+        <instance_id>cbbc38cedbbfe010431011f84896194d</instance_id>
+        <instance_name>gstackpteltddemo1</instance_name>
+        <name>ais_search_profile_ais_search_source_m2m_37efe71ddcf55510f877b9fffe5b8e78</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m"><ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE"><profile display_value="[CSM AIS] Configurable Workspace Search Config">b6ef671ddcf55510f877b9fffe5b8e91</profile><search_source display_value="">13bf8fe1531201107f03ddeeff7b1274</search_source><sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2022-09-07 06:24:48</sys_created_on><sys_id>37efe71ddcf55510f877b9fffe5b8e78</sys_id><sys_mod_count>0</sys_mod_count><sys_name>[CSM AIS] Configurable Workspace Search Config.Tasks - Incidents</sys_name><sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package><sys_policy/><sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope><sys_update_name>ais_search_profile_ais_search_source_m2m_37efe71ddcf55510f877b9fffe5b8e78</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2022-09-07 06:24:48</sys_updated_on></ais_search_profile_ais_search_source_m2m></record_update>]]></payload>
+        <payload_hash>-225190161</payload_hash>
+        <record_name>[CSM AIS] Configurable Workspace Search Config.Tasks - Incidents</record_name>
+        <reverted_from/>
+        <source>27b568be53b11010d4f9ddeeff7b12c5</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-07 06:24:48</sys_created_on>
+        <sys_id>a5cc76311b5d8210e57a64a1b24bcb5e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>183169f63800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>AI Search Search Profile Search Source M</type>
+        <update_guid>65cc7631365d8210aad4877046522b5e</update_guid>
+        <update_guid_history>65cc7631365d8210aad4877046522b5e:-225190161</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="[CSM AIS] Configurable Workspace Search Config.Tasks - Incidents">6dcc76311b5d8210e57a64a1b24bcb5e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2024-04-02 08:00:18</sys_created_on>
+        <sys_db_object display_value="" name="ais_search_profile_ais_search_source_m2m">ais_search_profile_ais_search_source_m2m</sys_db_object>
+        <sys_id>38fdbdaa9d3d44329a880d5dd43eac84</sys_id>
+        <sys_metadata>37efe71ddcf55510f877b9fffe5b8e78</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>[CSM AIS] Configurable Workspace Search Config.Tasks - Incidents</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_scope_delete display_value="">0afcaa0c4b4d4eb380a3d129e9a64451</sys_scope_delete>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_37efe71ddcf55510f877b9fffe5b8e78</sys_update_name>
+        <sys_update_version display_value="ais_search_profile_ais_search_source_m2m_37efe71ddcf55510f877b9fffe5b8e78">a5cc76311b5d8210e57a64a1b24bcb5e</sys_update_version>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2024-04-02 08:00:18</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</claim_owner_scope>
+        <claim_timestamp>190a0f4a4c90000001</claim_timestamp>
+        <metadata_update_name>ais_search_profile_ais_search_source_m2m_37efe71ddcf55510f877b9fffe5b8e78</metadata_update_name>
+        <previous_claim_app_version>24.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM and FSM Configurable Workspace Foundation</previous_claim_name>
+        <previous_claim_scope>27b568be53b11010d4f9ddeeff7b12c5</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:41:45</sys_created_on>
+        <sys_id>84450a061b5b8e1008c1c884604bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:41:45</sys_updated_on>
+    </sys_claim>
+</record_update>

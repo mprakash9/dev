@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="DELETE">
+        <active>true</active>
+        <ais_search_source display_value="">54cfcfe1531201107f03ddeeff7b122a</ais_search_source>
+        <label>Groups</label>
+        <name>People - Groups</name>
+        <order>1400</order>
+        <search_context_config display_value="[CSM AIS] Configurable Workspace Search Config">f2ef671ddcf55510f877b9fffe5b8e99</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2022-09-07 06:24:47</sys_created_on>
+        <sys_id>efefe71ddcf55510f877b9fffe5b8e32</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>People - Groups</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_update_name>sys_search_filter_efefe71ddcf55510f877b9fffe5b8e32</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2022-09-29 03:55:14</sys_updated_on>
+    </sys_search_filter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</application>
+        <file_path/>
+        <instance_id>cbbc38cedbbfe010431011f84896194d</instance_id>
+        <instance_name>gstackpteltddemo1</instance_name>
+        <name>sys_search_filter_efefe71ddcf55510f877b9fffe5b8e32</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter"><sys_search_filter action="INSERT_OR_UPDATE"><active>true</active><ais_search_source display_value="">54cfcfe1531201107f03ddeeff7b122a</ais_search_source><label>Groups</label><name>People - Groups</name><order>1400</order><search_context_config display_value="[CSM AIS] Configurable Workspace Search Config">f2ef671ddcf55510f877b9fffe5b8e99</search_context_config><sys_class_name>sys_search_filter</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2022-09-07 06:24:47</sys_created_on><sys_id>efefe71ddcf55510f877b9fffe5b8e32</sys_id><sys_mod_count>2</sys_mod_count><sys_name>People - Groups</sys_name><sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package><sys_policy/><sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope><sys_update_name>sys_search_filter_efefe71ddcf55510f877b9fffe5b8e32</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2022-09-29 03:55:14</sys_updated_on></sys_search_filter></record_update>]]></payload>
+        <payload_hash>-2034229041</payload_hash>
+        <record_name>People - Groups</record_name>
+        <reverted_from/>
+        <source>27b568be53b11010d4f9ddeeff7b12c5</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-07 06:24:47</sys_created_on>
+        <sys_id>c7ccf6311b5d8210e57a64a1b24bcb7b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>183169f5f980000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Navigation Tab</type>
+        <update_guid>87ccf6313f5d821002133d87b045107b</update_guid>
+        <update_guid_history>87ccf6313f5d821002133d87b045107b:-2034229041</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2024-04-02 08:00:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_search_filter">sys_search_filter</sys_db_object>
+        <sys_id>a610500942ae4a60afcb0ded3a720e40</sys_id>
+        <sys_metadata>efefe71ddcf55510f877b9fffe5b8e32</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>People - Groups</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_scope_delete display_value="">0afcaa0c4b4d4eb380a3d129e9a64451</sys_scope_delete>
+        <sys_update_name>sys_search_filter_efefe71ddcf55510f877b9fffe5b8e32</sys_update_name>
+        <sys_update_version display_value="sys_search_filter_efefe71ddcf55510f877b9fffe5b8e32">c7ccf6311b5d8210e57a64a1b24bcb7b</sys_update_version>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2024-04-02 08:00:24</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</claim_owner_scope>
+        <claim_timestamp>190a0f4a1f20000001</claim_timestamp>
+        <metadata_update_name>sys_search_filter_efefe71ddcf55510f877b9fffe5b8e32</metadata_update_name>
+        <previous_claim_app_version>24.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM and FSM Configurable Workspace Foundation</previous_claim_name>
+        <previous_claim_scope>27b568be53b11010d4f9ddeeff7b12c5</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:41:45</sys_created_on>
+        <sys_id>b3350a061b5b8e1008c1c884604bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:41:45</sys_updated_on>
+    </sys_claim>
+</record_update>

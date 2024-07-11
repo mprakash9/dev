@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="DELETE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>[CSM AIS] Order Line Items</name>
+        <retention_policy/>
+        <source>csm_order_line_item</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2022-09-07 06:24:45</sys_created_on>
+        <sys_id>0fefa71ddcf55510f877b9fffe5b8e93</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>[CSM AIS] Order Line Items</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_update_name>ais_datasource_0fefa71ddcf55510f877b9fffe5b8e93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-23 20:56:08</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</application>
+        <file_path/>
+        <instance_id>cbbc38cedbbfe010431011f84896194d</instance_id>
+        <instance_name>gstackpteltddemo1</instance_name>
+        <name>ais_datasource_0fefa71ddcf55510f877b9fffe5b8e93</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource"><ais_datasource action="INSERT_OR_UPDATE"><active>true</active><filter/><force_late_binding>false</force_late_binding><name>[CSM AIS] Order Line Items</name><retention_policy/><source>csm_order_line_item</source><sys_class_name>ais_datasource</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2022-09-07 06:24:45</sys_created_on><sys_id>0fefa71ddcf55510f877b9fffe5b8e93</sys_id><sys_mod_count>1</sys_mod_count><sys_name>[CSM AIS] Order Line Items</sys_name><sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package><sys_policy/><sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope><sys_update_name>ais_datasource_0fefa71ddcf55510f877b9fffe5b8e93</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-23 20:56:08</sys_updated_on><type>internal</type></ais_datasource></record_update>]]></payload>
+        <payload_hash>549300342</payload_hash>
+        <record_name>[CSM AIS] Order Line Items</record_name>
+        <reverted_from/>
+        <source>27b568be53b11010d4f9ddeeff7b12c5</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-07 06:24:45</sys_created_on>
+        <sys_id>d8cc36311b5d8210e57a64a1b24bcb0b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>183169f57c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>AI Search Indexed Source</type>
+        <update_guid>98cc3631ac5d8210aa9f2f2aa634b00b</update_guid>
+        <update_guid_history>98cc3631ac5d8210aa9f2f2aa634b00b:549300342</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="[CSM AIS] Order Line Items">50cc36311b5d8210e57a64a1b24bcb0c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-02 08:00:14</sys_created_on>
+        <sys_db_object display_value="" name="ais_datasource">ais_datasource</sys_db_object>
+        <sys_id>85312c62b1a94c50b43ea0ebf7466900</sys_id>
+        <sys_metadata>0fefa71ddcf55510f877b9fffe5b8e93</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>[CSM AIS] Order Line Items</sys_name>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_scope_delete display_value="">0afcaa0c4b4d4eb380a3d129e9a64451</sys_scope_delete>
+        <sys_update_name>ais_datasource_0fefa71ddcf55510f877b9fffe5b8e93</sys_update_name>
+        <sys_update_version display_value="ais_datasource_0fefa71ddcf55510f877b9fffe5b8e93">d8cc36311b5d8210e57a64a1b24bcb0b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 08:00:14</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</claim_owner_scope>
+        <claim_timestamp>190a0f4a4580000001</claim_timestamp>
+        <metadata_update_name>ais_datasource_0fefa71ddcf55510f877b9fffe5b8e93</metadata_update_name>
+        <previous_claim_app_version>24.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM and FSM Configurable Workspace Foundation</previous_claim_name>
+        <previous_claim_scope>27b568be53b11010d4f9ddeeff7b12c5</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:41:45</sys_created_on>
+        <sys_id>77350a061b5b8e1008c1c884604bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:41:45</sys_updated_on>
+    </sys_claim>
+</record_update>

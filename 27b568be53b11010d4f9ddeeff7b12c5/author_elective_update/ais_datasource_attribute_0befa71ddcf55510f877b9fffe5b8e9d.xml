@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_attribute">
+    <ais_datasource_attribute action="DELETE">
+        <attribute display_value="index_attachments">2dd8f14753320010ffaaddeeff7b1293</attribute>
+        <datasource display_value="">0fefa71ddcf55510f877b9fffe5b8e93</datasource>
+        <source>csm_order_line_item</source>
+        <sys_class_name>ais_datasource_attribute</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2022-09-07 06:24:45</sys_created_on>
+        <sys_id>0befa71ddcf55510f877b9fffe5b8e9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_update_name>ais_datasource_attribute_0befa71ddcf55510f877b9fffe5b8e9d</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2022-09-07 06:24:45</sys_updated_on>
+        <value>false</value>
+    </ais_datasource_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</application>
+        <file_path/>
+        <instance_id>cbbc38cedbbfe010431011f84896194d</instance_id>
+        <instance_name>gstackpteltddemo1</instance_name>
+        <name>ais_datasource_attribute_0befa71ddcf55510f877b9fffe5b8e9d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_attribute"><ais_datasource_attribute action="INSERT_OR_UPDATE"><attribute display_value="index_attachments">2dd8f14753320010ffaaddeeff7b1293</attribute><datasource display_value="">0fefa71ddcf55510f877b9fffe5b8e93</datasource><source>csm_order_line_item</source><sys_class_name>ais_datasource_attribute</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2022-09-07 06:24:45</sys_created_on><sys_id>0befa71ddcf55510f877b9fffe5b8e9d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package><sys_policy/><sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope><sys_update_name>ais_datasource_attribute_0befa71ddcf55510f877b9fffe5b8e9d</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2022-09-07 06:24:45</sys_updated_on><value>false</value></ais_datasource_attribute></record_update>]]></payload>
+        <payload_hash>266785832</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>27b568be53b11010d4f9ddeeff7b12c5</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-07 06:24:45</sys_created_on>
+        <sys_id>e0cc36311b5d8210e57a64a1b24bcb37</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>183169f57c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>AI Search Indexed Source Attribute</type>
+        <update_guid>a0cc3631a85d8210830da89c39e67a37</update_guid>
+        <update_guid_history>a0cc3631a85d8210830da89c39e67a37:266785832</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a8cc36311b5d8210e57a64a1b24bcb37</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2024-04-02 08:00:14</sys_created_on>
+        <sys_db_object display_value="" name="ais_datasource_attribute">ais_datasource_attribute</sys_db_object>
+        <sys_id>51954e8420c44f809367e19f95a49000</sys_id>
+        <sys_metadata>0befa71ddcf55510f877b9fffe5b8e9d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope>
+        <sys_scope_delete display_value="">0afcaa0c4b4d4eb380a3d129e9a64451</sys_scope_delete>
+        <sys_update_name>ais_datasource_attribute_0befa71ddcf55510f877b9fffe5b8e9d</sys_update_name>
+        <sys_update_version display_value="ais_datasource_attribute_0befa71ddcf55510f877b9fffe5b8e9d">e0cc36311b5d8210e57a64a1b24bcb37</sys_update_version>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2024-04-02 08:00:14</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</claim_owner_scope>
+        <claim_timestamp>190a0f4a7900000001</claim_timestamp>
+        <metadata_update_name>ais_datasource_attribute_0befa71ddcf55510f877b9fffe5b8e9d</metadata_update_name>
+        <previous_claim_app_version>24.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM and FSM Configurable Workspace Foundation</previous_claim_name>
+        <previous_claim_scope>27b568be53b11010d4f9ddeeff7b12c5</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:41:46</sys_created_on>
+        <sys_id>48450a061b5b8e1008c1c884604bcb8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:41:46</sys_updated_on>
+    </sys_claim>
+</record_update>
